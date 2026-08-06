@@ -29,9 +29,11 @@ micro:bitを使ったプログラミング学習用チュートリアルです�
 
 以下のリンクからMakeCode上でチュートリアルを開いてください。
 
+<!--
 * [チュートリアル](/mission-game/tutorial) [開始](https://makecode.microbit.org/#tutorial:github:SKYTREE-1/mission-game/tutorial)
 
 #### メタデータ (検索、レンダリングに使用)
+-->
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
