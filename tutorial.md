@@ -99,7 +99,8 @@ input.onButtonPressed(Button.A, function () {
 ## STEP1-7
 
 メニューの``||input: 入力||`` から ``||input: ゆさぶられたとき||`` をステージに配置します。
-そこに、``||logic:論理||``にある``||logic:もし〜なら||``ブロックをいれて、``||logic:論理||``にある六角形の条件ブロックを使って、条件の部分が、``||variables:mission = 1||`` となるようにします。変数``||variables:mission||``のブロックは``||variables:変数||``にあります。
+そこに、``||logic:論理||``にある``||logic:もし〜なら||``ブロックをいれて、``||logic:論理||``にある六角形の条件ブロックを使って、条件の部分が、``||variables:mission = 1||`` となるようにします。
+変数 ``||variables:mission||`` のブロックは ``||variables:変数||`` にあります。
 
 ```blocks
 input.onGesture(Gesture.Shake, function () {
@@ -190,7 +191,8 @@ micro:bit にライトを当てたり、明るい場所へ移動したりして�
 
 ## STEP2-1
 メニューの``||input: 入力||`` から ``||input: Aボタンが押されたら||`` をステージに配置して、「A」を「B」にかえます。
-そこに、``||variables:変数||``にある``||variables:変数 〜　を 0 にする||`` を配置して、変数名を ``||variables:mission||`` にかえ、数字を2にかえます。また、``||basic:基本 ||``の``||basic:数を表示 0 ||`` ブロックを使って、画面に 2 を表示するようにします。
+そこに、``||variables:変数||``にある``||variables:変数 〜　を 0 にする||`` を配置して、変数名を ``||variables:mission||`` にかえ、数字を2にかえます。
+また、``||basic:基本 ||``の``||basic:数を表示 0 ||`` ブロックを使って、画面に 2 を表示するようにします。
 
 ```blocks
 input.onButtonPressed(Button.B, function () {
