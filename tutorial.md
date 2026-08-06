@@ -11,9 +11,11 @@
 
 このチュートリアルでは、ゲームを作りながら、ボタンやセンサー、変数、条件分岐、乱数など、プログラミングの基本を学びます。
 
-<!--![Mission Game](images/image1.png) -->
+![Mission Game（同じディレクトリ）](image1.png) 
 
-![Mission Game](https://raw.githubusercontent.com/SKYTREE-1/mission-game/refs/heads/master/images/image1.png)
+![Mission Game（相対パス）](images/image1.png) 
+
+![Mission Game（URL）](https://raw.githubusercontent.com/SKYTREE-1/mission-game/refs/heads/master/images/image1.png)
 
 ## STEP 0 最初のミッション @unplugged
 
