@@ -1,33 +1,36 @@
 
 > このページを開く [https://skytree-1.github.io/mission-game/](https://skytree-1.github.io/mission-game/)
 
-## 拡張機能として使用
+# Mission Game
 
-このリポジトリは、MakeCode で **拡張機能** として追加できます。
+micro:bitを使ったプログラミング学習用チュートリアルです。
 
-* [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
-* **新しいプロジェクト** をクリックしてください
-* ギアボタンメニューの中にある **拡張機能** をクリックしてください
-* **https://github.com/skytree-1/mission-game2** を検索してインポートします。
+## 概要
 
-## このプロジェクトを編集します
+この教材では、micro:bitの基本的なプログラミングを通して、
+ゲーム制作を体験します。
 
-MakeCode でこのリポジトリを編集します。
+プログラムの作成、センサーの利用、条件分岐、変数、イベント処理などを
+段階的に学習します。
 
-* [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
-* **読み込む** をクリックし、 **URLから読み込む...** をクリックしてください
-* **https://github.com/skytree-1/mission-game** を貼り付けてインポートをクリックしてください
+## 対象
 
+- micro:bitを初めて使う人
+- プログラミング入門者
+- 高校生程度を想定
+
+
+## 使用環境
+
+- micro:bit
+- MakeCode for micro:bit
+
+## チュートリアルの利用方法
+
+以下のリンクからMakeCode上でチュートリアルを開いてください。
 
 * [チュートリアル](/mission-game/tutorial) [開始](https://makecode.microbit.org/#tutorial:github:SKYTREE-1/mission-game/tutorial)
 
-* [チュートリアル](/mission-game/tutorial) [開始](https://makecode.microbit.org/#tutorial:https://github.com/SKYTREE-1/mission-game/tutorial)
-
-* [チュートリアル](/mission-game/tutorial) [開始](https://makecode.microbit.org/#tutorial:github:SKYTREE-1/mission-game/tutorial.md)
-* 
-* [チュートリアル](/mission-game/tutorial) [開始](https://makecode.microbit.org/#tutorial:github:SKYTREE-1/mission-game/tutorial.md)
-
-https://skytree-1.github.io/mission-game/
 #### メタデータ (検索、レンダリングに使用)
 
 * for PXT/microbit
