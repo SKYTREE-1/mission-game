@@ -11,10 +11,6 @@
 
 このチュートリアルでは、ゲームを作りながら、ボタンやセンサー、変数、条件分岐、乱数など、プログラミングの基本を学びます。
 
-![Mission Game（同じディレクトリ）](image1.png) 
-
-![Mission Game（相対パス）](images/image1.png) 
-
 ![Mission Game（URL）](https://raw.githubusercontent.com/SKYTREE-1/mission-game/refs/heads/master/images/image1.png)
 
 ## STEP 0 最初のミッション @unplugged
@@ -27,7 +23,7 @@ Aボタンを押すと、ミッション1がスタートします。
 micro:bit を 5回ゆさぶってみましょう。
 5回、ゆさぶられたことを検知したら、ミッションクリアです！
 
-![STEP1　ミッション１：５回シェイク](images/image2.png)
+![STEP1　ミッション１：５回シェイク](https://raw.githubusercontent.com/SKYTREE-1/mission-game/refs/heads/master/images/image2.png)
 
 
 ## STEP 1 最初のミッション @unplugged
@@ -186,7 +182,7 @@ Bボタンを押すと、ミッション2がスタートします。
 micro:bit にライトを当てたり、明るい場所へ移動したりしてみましょう。
 明るさが一定以上になると、ミッションクリアです！
 
-![STEP2　ミッション2：明るくしてね！](images/image3.png)
+![STEP2　ミッション2：明るくしてね！](https://raw.githubusercontent.com/SKYTREE-1/mission-game/refs/heads/master/images/image3.png)
 
 
 ## STEP2-1
@@ -280,7 +276,7 @@ micro:bit に書き込んで試してみましょう。
 	変更するのは、ミッションを選ぶ部分だけです。
 
 
-![STEP3　ミッション3：ミッションをランダムに選ぼう！](images/image4.png)
+![STEP3　ミッション3：ミッションをランダムに選ぼう！](https://raw.githubusercontent.com/SKYTREE-1/mission-game/refs/heads/master/images/image4.png)
 
 ## STEP3-1 
 ここまでは、AボタンとBボタンに違うミッションを割り当てていましたが、ボタンを押した時にランダムにミッションが選ばれるようにするので、ボタンBは使いません。``||input:ボタンBが押されたとき||``を消してください（左側にもっていく）。
@@ -378,7 +374,7 @@ STEP5 自由に設計しよう @unplugged
 * 暗くする
 * 2回連続で振る
 
-![STEP4　ミッション4：新しいミッションを考えて追加しよう！](images/image5.png)
+![STEP4　ミッション4：新しいミッションを考えて追加しよう！](https://raw.githubusercontent.com/SKYTREE-1/mission-game/refs/heads/master/images/image5.png)
 
 	新しいミッションを追加したら、``||math:乱数||`` の範囲も忘れずに変更しましょう。
 	
