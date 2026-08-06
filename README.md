@@ -20,9 +20,13 @@ MakeCode でこのリポジトリを編集します。
 
 
 * [チュートリアル](/mission-game/tutorial) [開始](https://makecode.microbit.org/#tutorial:github:SKYTREE-1/mission-game/tutorial)
+
+* [チュートリアル](/mission-game/tutorial) [開始]https://makecode.microbit.org/#tutorial:https://github.com/SKYTREE-1/mission-game/tutorial)
+
+
 * [チュートリアル](/mission-game/tutorial) [開始](https://makecode.microbit.org/#tutorial:github:SKYTREE-1/mission-game/tutorial.md)
 
-
+https://skytree-1.github.io/mission-game/
 #### メタデータ (検索、レンダリングに使用)
 
 * for PXT/microbit
