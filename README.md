@@ -1,5 +1,5 @@
 
-> このページを開く [https://skytree-1.github.io/mission-game2/](https://skytree-1.github.io/mission-game2/)
+> このページを開く [https://skytree-1.github.io/mission-game/](https://skytree-1.github.io/mission-game/)
 
 ## 拡張機能として使用
 
@@ -16,9 +16,16 @@ MakeCode でこのリポジトリを編集します。
 
 * [https://makecode.microbit.org/](https://makecode.microbit.org/) を開く
 * **読み込む** をクリックし、 **URLから読み込む...** をクリックしてください
-* **https://github.com/skytree-1/mission-game2** を貼り付けてインポートをクリックしてください
+* **https://github.com/skytree-1/mission-game** を貼り付けてインポートをクリックしてください
+
+
+* [チュートリアル](/mission-game/tutorial) [開始](https://makecode.microbit.org/#tutorial:github:SKYTREE-1/mission-game/tutorial)
+* [チュートリアル](/mission-game/tutorial) [開始](https://makecode.microbit.org/#tutorial:github:SKYTREE-1/mission-game/tutorial.md)
+
 
 #### メタデータ (検索、レンダリングに使用)
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+
+...
